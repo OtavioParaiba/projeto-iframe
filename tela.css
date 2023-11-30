@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+*{  margin: 0px;
+    padding: 0px;
+  
+}
+    
+
+img{
+    width: 100%;
+}
+
+
+a{  
+    display: block;
+    background-color: darkred;
+    height: 50px;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+
+   
+} 
+
+
